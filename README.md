@@ -1,4 +1,4 @@
-### Recipes
+# Recipes
 
 I know what you're thinking. 
 
