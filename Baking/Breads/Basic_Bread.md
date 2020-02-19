@@ -1,8 +1,8 @@
-#Basic Bread Recipe
+# Basic Bread Recipe
 
-Yield: 1 loaf / Active Time: 1 hour / Inactive Time: 6 hours
+**Yield:** 1 loaf / **Active Time:** 1 hour / **Inactive Time:** 6 hours
 
-###Notes:
+### Notes:
 This is my go to bread recipe that I alter in various ways. It's based on the [Serious Eats Simple Crusty White Bread](https://www.seriouseats.com/recipes/2014/08/simple-crusty-white-bread-recipe.html) recipe. I've tweaked it a bit to suite my needs.
 
 I find 1 loaf is good for 2-3 people; I make 2 (or more) loaves if there's 4 or more people.
@@ -11,7 +11,9 @@ I use a stand mixer for this recipe. You can also make it by hand; the taste and
 
 Also note, you can use all purpose or bread flour in this recipe. If using all purpose, you will have to knead longer to get the same texture. 
 
-##Ingredients:
+This goes great with homemade butter!
+
+## Ingredients:
 
 1. 250 grams flour (see note above)
 2. 3 grams instant yeast 
@@ -19,10 +21,10 @@ Also note, you can use all purpose or bread flour in this recipe. If using all p
 4. 175 grams warm water
 5. Cornmeal for dusting
 
-##Directions :
+## Directions :
 Mixing is different depending on your method. The directions are the same after mixing.
 
-####These directions are for using a mixer: 
+#### These directions are for using a mixer: 
 
 1. Measure out all the dry ingredients in the bowl of your stand mixer.
 2. Mix together briefly<sub>1</sub> then make a divot in the middle and add the warm water.
@@ -30,7 +32,7 @@ Mixing is different depending on your method. The directions are the same after 
 4. Turn mixer up to 4-6. Keep an eye on your mixer (it tends to wander) and let run for about 20 minutes. Check dough at 10 and 15 minutes, scraping down the hook and the bowl with a soft spatula. You can check for the dough for the "window pane" stretchiness at these times. Bread flour tends to take 15 - 22 minutes; all purpose can take anywhere from 17 to 30 minutes depending on it's gluten content.
 5. Continue in the "after mixing" section
 
-####These directions are for mixing by hand:
+#### These directions are for mixing by hand:
 
 1. Measure out all the dry ingredients in a large mixing bowl.
 2. With a wooden spoon, mix the dry ingredients.<sub>1</sub> Make a divot in the middle of the flour mixture and add the warm water.
@@ -62,9 +64,15 @@ You can also bake this bread on a cookie sheet instead of using cast iron or sto
 
 ## Footnotes: 
 <sub>1</sub> When mixing the dry ingredients you do not need to be thorough. This just prevents clumps of yeast or salt forming within the dough.
+
 <sub>2</sub> Make sure not to place your dough anywhere too warm while it rises. This will lead to overly large bubbles within the bread.
+
 <sub>3</sub> If dough is resistant to shaping, it let sit for a few minutes. The dough will "recover" if it hasn't been torn. I will be adding more on shaping in the future.
+
 <sub>4</sub> Any amount of touching the dough from this point onward will change the shape and rise of your bread. Be careful!
+
 <sub>5</sub> Different score marks will lead to different shaped bread. These score marks are where the bread will expand as it bakes. If bread is not scored enough or in the right direction it is prone to bursting in the oven. Burst bread is still delicious! Ideally, you don't want to score deeper than .25 inch into your loaf. If baking a circular loaf, try making an "X" on the top of the bread. If baking a torpedo shaped loaf, try making 3 75 degree cuts down the length of your bread. I will be adding more on scoring in the future.
+
 <sub>6</sub> Misting the bread is optional, but steam within the oven is what adds the "crust" to this crusty bread.
+
 <sub>7</sub> Bread is easiest to cut when it's been cooled an hour or more but this is how *I* make bread, and I'm not usually that patient. 
