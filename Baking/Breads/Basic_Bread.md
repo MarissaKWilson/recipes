@@ -1,5 +1,7 @@
 # Basic Bread Recipe
 
+![Basic Bread](../../images/bread/basic_bread.jpg)
+
 **Yield:** 1 loaf / **Active Time:** 1 hour / **Inactive Time:** 6 hours
 
 ### Notes:
@@ -22,34 +24,28 @@ This goes great with homemade butter!
 5. Cornmeal for dusting
 
 ## Directions :
-Mixing is different depending on your method. The directions are the same after mixing.
 
-#### These directions are for using a mixer: 
+<b>Kneading</b>
 
 1. Measure out all the dry ingredients in the bowl of your stand mixer.
 2. Mix together briefly<sub>1</sub> then make a divot in the middle and add the warm water.
-3. Using the dough hook attachment, set mixer to 2 and run until dough begins to come together.
-4. Turn mixer up to 4-6. Keep an eye on your mixer (it tends to wander) and let run for about 20 minutes. Check dough at 10 and 15 minutes, scraping down the hook and the bowl with a soft spatula. You can check for the dough for the "window pane" stretchiness at these times. Bread flour tends to take 15 - 22 minutes; all purpose can take anywhere from 17 to 30 minutes depending on it's gluten content.
-5. Continue in the "after mixing" section
+3. Using the dough hook attachment, set mixer to low and run until dough begins to come together.
+4. Turn mixer up to medium. Keep an eye on your mixer (it tends to wander) and let run for about 20 minutes. Check dough at 10 and 15 minutes, scraping down the hook and the bowl with a soft spatula. You can check for the dough for the "window pane" stretchiness at these times. Bread flour tends to take 15 - 22 minutes; all purpose can take anywhere from 17 to 30 minutes depending on it's gluten content.
 
-#### These directions are for mixing by hand:
-
-1. Measure out all the dry ingredients in a large mixing bowl.
-2. With a wooden spoon, mix the dry ingredients.<sub>1</sub> Make a divot in the middle of the flour mixture and add the warm water.
-3. Mix with a wooden spoon until dough comes together in a rough ball.
-4. If mixing by hand, turn the dough out onto a floured counter and knead the dough for about 20 minutes. Dough will look smooth and slightly shiny when it's done. 
-5. Continue in the "after mixing" section
-
-#### After mixing:
+<b>Rising</b>
 
 1. Add a spoonful of flour to a medium sized mixing bowl. Turn the bowl to coat the bottom and sides with flour. Dump out the extra flour.
 2. Using a soft sided spatula, scrape your dough out of the mixing bowl into the floured bowl. Or, if mixing by hand move your kneaded dough ball to the floured mixing bowl.
 3. Cover loosely with lid or kitchen towel and set aside to rise for 3 - 4 hours.<sub>2</sub>
-4. When dough has doubled in size, preheat oven to 500 F. If using a cast iron skillet or bread stone place in oven to preheat. 
-5. Turn out dough onto a well floured surface. Work dough into a ball, then shape as desired.<sub>3</sub>
-6. Add corn meal to a bread peel, place your dough on top, and cover with a linen or flour sack towel. Rest for 30 - 40 minutes.<sub>4</sub>
 
-### Baking  
+<b>Resting</b>
+
+1. When dough has doubled in size, preheat oven to 500 F. If using a cast iron skillet or bread stone place in oven to preheat. 
+2. Turn out dough onto a well floured surface. Work dough into a ball, then shape as desired.<sub>3</sub>
+3. Add corn meal to a bread peel, place your dough on top, and cover with a linen or flour sack towel. Rest for 30 - 40 minutes.<sub>4</sub>
+
+<b>Baking</b>
+
 1. Just before baking use a sharp knife to score the top of your bread.<sub>5</sub> Different score marks will change the shape of your bread as it bakes
 2. Using your bread peel slide the dough onto your pre-heated bread stone or cast iron. Using a spray bottle, mist the bread.<sub>6</sub>
 3. Bake for 20 to 30 minutes, it will look like bread when it's ready. You can also try the "knocking" test; holding the bread with tongs knock on the bottom. It should sound hard and not dense when it's baked.
